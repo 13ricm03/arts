@@ -3,5 +3,25 @@ h1{
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
-    text-align: center;
+    text-align: center horizontal;
+}
+h2{
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    font-family:Helvetica;
+}
+#frames{
+    background-color:lightcoral;
+}
+#brushes{
+    background-color:mediumspringgreen;
+}
+#paint{
+    background-color:skyblue;
+}
+.prices{
+    font-weight:bold;
+    color:blue;
+    font-family:Helvetica;
 }
