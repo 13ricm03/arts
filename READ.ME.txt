@@ -1,0 +1,1 @@
+This assigment was to cover the basic structuring of html and css. The task of the assigment is to copy the format of a picture of a website into code.
